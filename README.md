@@ -31,9 +31,6 @@ External contributions are not actively sought for this personal project. Howeve
 
 A tip of the hat to the original GitHub repository providing the code, and sincere gratitude to investing.com for the invaluable exchange rate data. 🙌
 
-## About
-
-No description, website, or topics provided.
 
 ---
 
