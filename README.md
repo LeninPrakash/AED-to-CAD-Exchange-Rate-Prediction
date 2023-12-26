@@ -1,6 +1,5 @@
 AED-to-CAD Exchange Rate Prediction Journey with ML 💱💹
 
-
 Description
 Embark on a data-driven expedition with this personal project dedicated to forecasting the exchange rate percentage between the United Arab Emirates Dirham (AED) and the Canadian Dollar (CAD). Leveraging a rich dataset spanning two decades from investing.com, this project employs Linear Regression, ARIMA, SARIMA, and LSTM to provide deep insights into potential future movements of this vital exchange rate. 🚀
 
