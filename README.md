@@ -1,6 +1,6 @@
 # AED-to-CAD-Exchange-Rate-Prediction-with-Linear-Regression
 
-Project Title: 💱 Personal AED to CAD Exchange Rate Prediction with Linear Regression 💹
+Project Title: 💱 Personal AED to CAD Exchange Rate Prediction with Linear Regression, ARIMA, SARIMA and LSTM 💹
 
 Description:
 
